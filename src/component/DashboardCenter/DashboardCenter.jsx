@@ -1,5 +1,5 @@
 import "./DashboardCenter.css";
-import img from "./block.png";
+import img from "./Block.png";
 import { FaArrowTrendUp } from "react-icons/fa6";
 import { IoIosArrowDown } from "react-icons/io";
 function DashboardCenter() {
